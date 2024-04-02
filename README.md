@@ -11,7 +11,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ![image](https://github.com/dharsh-create/3b_CHAT_USING_TCP_SOCKETS/assets/144217078/1e969962-d03e-4944-b16b-b8302aa6af1f)
-![image](https://github.com/dharsh-create/3b_CHAT_USING_TCP_SOCKETS/assets/144217078/d43b6ad2-d674-4352-9ce2-2e669dfc916d)
+![image](https://github.com/dharsh-create/3b_CHAT_USING_TCP_SOCKETS/assets/144217078/ff652a54-2655-4343-96e6-f62b2bb93a6e)
+
 
 
 ## OUPUT
